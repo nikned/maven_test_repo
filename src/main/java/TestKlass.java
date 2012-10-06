@@ -6,4 +6,8 @@
  * To change this template use File | Settings | File Templates.
  */
 public class TestKlass {
+   public static void main(String args[]){
+      System.out.println(ConstantKlass.SUB_MODULE_NAME  );
+   }
+
 }

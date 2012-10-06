@@ -1,0 +1,3 @@
+[submodule "src/main/resources/git-contracts"]
+	path = src/main/resources/git-contracts
+	url = https://github.com/nikned/git_submodule_test_repo.git
