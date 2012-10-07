@@ -1,6 +1,5 @@
 #!/bin/bash
-current="$(pwd)"
-echo "'$current'" '->' "'$(pwd)'" #show paths for demo purposes
+git submodule update
 cd src/main/resources/git-contracts
 git checkout master
 git pull
